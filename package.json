@@ -1,0 +1,26 @@
+{
+    "name"        : "scripts-v",
+    "author"      : "James Nylen <jnylen@gmail.com>",
+    "description" : "Script that prints a file using vim syntax highlighting",
+    "version"     : "0.0.1",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/nylen/scripts-v"
+    },
+    "bugs" : {
+        "url" : "https://github.com/nylen/scripts-v/issues"
+    },
+    "license"  : "MIT",
+    "keywords" : [
+        "scripts",
+        "vim",
+        "cat",
+        "syntax",
+        "highlighting",
+        "pretty",
+        "print"
+    ],
+    "bin" : {
+        "v" : "bin/v"
+    }
+}
